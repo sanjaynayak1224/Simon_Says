@@ -1,0 +1,93 @@
+body{
+    text-align: center;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+.btn{
+    height:100px;
+    width:100px;
+    border: 5px solid black;
+    border-radius: 20%;
+    margin: 20px;
+}
+
+.red{
+    background-color: red;
+}
+
+.green{
+    background-color: green;
+}
+
+.blue{
+    background-color: blue;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+.orange{
+    background-color: orange;
+}
+
+.violet{
+    background-color: violet;
+}
+
+.pink{
+    background-color: pink;
+}
+
+.brown{
+    background-color: brown;
+}
+
+.aquamarine{
+    background-color: aquamarine;
+}
+
+.cadetblue{
+    background-color:cadetblue;
+}
+
+.coral{
+    background-color:coral;
+}
+
+.dodgerblue{
+    background-color:dodgerblue;
+}
+
+.cornflowerblue{
+    background-color:cornflowerblue;
+}
+
+.darkmagenta{
+    background-color:darkmagenta;
+}
+
+.crimson{
+    background-color:crimson;
+}
+
+.cyan{
+    background-color:cyan;
+}
+
+.chocolate{
+    background-color: chocolate;
+}
+
+
+.goldenrod{
+    background-color:goldenrod;
+}
+
+.flash{
+    background-color: white;
+}
